@@ -577,7 +577,7 @@ margin-bottom: 15px;
   background-size: cover;
   padding: 100px 0;
   color: #fff;
-  background: url('../images/img2.jpg');
+  background: url('../images/portfolio/photoBG.jpg');
   background-size: cover;
 }
 #testimonial h2, #testimonial p{
@@ -616,6 +616,25 @@ color:#fff;
 color:#fff;
 }
 #about .listarrow li{
+color:#fff;
+}
+
+#announce {
+  padding: 100px 0;
+  background: #3A3A3A;
+  /* background: url('../images/img2.jpg'); */    
+  background-size: cover;  };
+}
+#announce .column-title{
+color:#fff;
+}
+#announce p{
+color:#fff;
+}
+#announce h2{
+color:#fff;
+}
+#announce .listarrow li{
 color:#fff;
 }
 /*Team*/ 
@@ -714,7 +733,7 @@ line-height: 22px;
 	border-radius: 50%; 
 	margin-left: auto;
 	margin-right: auto;
-	opacity: 0.6;
+	opacity: 0.8;
 }
 .single-testimonial h5{
 	padding: 8px 0 0px;
@@ -941,7 +960,7 @@ text-align: center;
 }
 /*hero-action-section*/
 .hero-action-section {
-    background-image: url("../images/img2.jpg");
+    background-image: url("../images/portfolio/photoBG.jpg");
     text-align: center;
     color: #fff;
     padding: 60px 0;
